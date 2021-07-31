@@ -1,5 +1,6 @@
 # STAT318_regression_analysis_project
 Independent project for STAT 318 (Regression Analysis and Statistical Models) 
+
 I built a multiple linear regression model to investigate the most influential factors 
 associated with the percentage of Massachusetts public high school graduates attending
 institutions of higher education.
